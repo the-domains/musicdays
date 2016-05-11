@@ -1,7 +1,7 @@
 name: musicdays
 favicon: null
-layout_spectrum: 0.9545665683690459
-typography_spectrum: 0.7716451101005077
+layout_spectrum: 0.00254
+typography_spectrum: 0.27157
 cta:
   domain: null
   bucket: null
