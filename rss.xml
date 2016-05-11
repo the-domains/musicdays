@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[musicdays]]></title>
         <description><![CDATA[musicdays]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musicdays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 01:19:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 01:20:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musicdays/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15b5a2d-1d33-4469-afe8-9b758cbc3d61.jpg">]]></description>
+            <link>https://thegrid.ai/musicdays/tuesday/index.html</link>
+            <guid isPermaLink="false">fa68ee9f-d52c-4bee-b2a6-48d317aec126</guid>
+            <pubDate>Wed, 11 May 2016 01:19:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/228f9b1f-323a-44b9-988f-414c517c6a55.jpg">]]></description>
-            <link>undefinedmonday/index.html</link>
+            <link>https://thegrid.ai/musicdays/monday/index.html</link>
             <guid isPermaLink="false">1c1e5869-8d40-4889-8c4f-c8cf14264f60</guid>
             <pubDate>Wed, 11 May 2016 01:18:52 GMT</pubDate>
         </item>
